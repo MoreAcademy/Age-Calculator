@@ -48,5 +48,6 @@ int main()
       year(current_date, current_month, current_year, birth_date, birth_month, birth_year);
       printf("\n\n Thank You For Using Age Calculator !!");
       printf("\n\n Have A Nice Day :-)");
+      printf("\n\n bye");
       return 0;
 }
